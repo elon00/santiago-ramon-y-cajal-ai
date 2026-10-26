@@ -1,0 +1,14 @@
+{
+  "project": "santiago-ramon-y-cajal-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "6KuMdtj8P7tcS9GpssFNZ96e3PSLccQf69L96kdayurq",
+  "vault_account": "75WGijD6u5PUm5fQDAbZBcCYdqXHa5TnwMHuooUFW8m4",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2VQubPP6UYmsCdpJcXkgDP8wZ4WY4JacsQm1c4VQsAPTctGxYAfTG33GF2JNWSL899gzxh2JChxJ8NAJuitZhmR",
+  "account_tx": "JPbhwxe16qZ6mNR3QqkZ7GbeqxcUmkR33xTyRDKnLisBS3f3dWu5m4cok9rCfuNeSPKbyPPfBRmHLpFAdosH5MD",
+  "mint_tx": "2iWSvoLvL4mSULFU7ZZMamtJgWJ7ALsn6HqKEuUd1uC3JjodUHq9jLDZBcQViQyDrcXDPQVrrHfEv43DHickmopw",
+  "solana_explorer_mint": "https://explorer.solana.com/address/6KuMdtj8P7tcS9GpssFNZ96e3PSLccQf69L96kdayurq?cluster=devnet",
+  "timestamp": "2026-10-26 16:57:15 UTC"
+}
